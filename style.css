@@ -411,3 +411,9 @@ footer {
         color: white;
     }
 }
+
+@media screen and (max-width: 1440px) { 
+    .left, .main, .right , header ,.hero1 ,.hero2, .subheading , .cards ,.after-card ,footer{
+        width: 100%;
+}
+}
