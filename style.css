@@ -412,13 +412,13 @@ footer {
     }
 }
 
-@media screen and (max-width: 1440px) { 
+/* @media screen and (max-width: 1440px) { 
     .left, .main, .right , header ,.hero1 ,.hero2, .subheading , .cards ,.after-card ,footer{
         width: 100%;
 }
-}
+} */
 
-@media screen and (max-width: 620px) {
+@media only screen and (max-width: 620px) {
     .left, .main, .right , header ,.hero1 ,.hero2, .subheading , .cards ,.after-card ,footer {
         width: 100%;
     }
