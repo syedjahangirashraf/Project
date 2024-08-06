@@ -417,3 +417,9 @@ footer {
         width: 100%;
 }
 }
+
+@media screen and (min-width: 620px) {
+    .left, .main, .right , header ,.hero1 ,.hero2, .subheading , .cards ,.after-card ,footer {
+        width: 100%;
+    }
+}
