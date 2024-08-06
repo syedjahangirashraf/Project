@@ -397,7 +397,10 @@ footer {
 }
 
 @media (min-width: 600px) {
-    html {
+    html,
+    body {
+        height: 100%;
+        width: 100%;
         font-size: 16px;
         background-color: white;
         color: black;
