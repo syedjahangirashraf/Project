@@ -396,15 +396,88 @@ footer {
     margin-left: 578px;
 }
 
-@media (min-width: 600px) {
+/* @media (min-width: 600px) {
     html,
-    body {
-        height: 100%;
-        width: 100%;
-        font-size: 16px;
-        background-color: white;
-        color: black;
+    body, header, img {
+        width: 20px;
+        height: 1px;
     }
 }
 
+@media (min-width: 600px) {
+    html,
+    body, header, nav a {
+       font-size:16px;
+    }
+}
 
+@media (min-width: 600px) {
+    html,
+    body, header, button {
+        width: 100%;
+        font-size: 16px;
+        margin-left: 25px;
+    }
+}
+
+@media (min-width: 600px) {
+    html,
+    body, .hero1 .h1{ 
+       font-size: 16px;
+    }
+}
+
+@media (min-width: 600px) {
+    html,
+    body, .hero1 p {
+        width: 100%;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 600px) {
+    html,
+    body, .hero1 button {
+        width: 100%;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 600px) {
+    html,
+    body, .hero1, .pictures img {
+        width: 100%;
+    }
+} */
+
+@media (min-width: 600px) {
+    html,
+    body, header{
+        width: 100%;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 600px) {
+    html,
+    body, .hero{
+        width: 100%;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 600px) {
+    html,
+    body, .cards{
+        width: 100%;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 600px) {
+    html,
+    body, .footer{
+        width: 100%;
+        font-size: 16px;
+    }
+}
